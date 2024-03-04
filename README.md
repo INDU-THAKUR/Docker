@@ -41,4 +41,7 @@
        docker ps --all
 ## View resource usage stats
        docker container stats
+## Cheak the docker images
+      docker imgaes
+
 
